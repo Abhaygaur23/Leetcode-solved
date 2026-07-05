@@ -1,50 +1,40 @@
 class Solution {
 public:
-    void merge(vector<int>& nums, int low, int mid, int high) {
-        vector<int> temp;
-
-        int left = low;
-        int right = mid + 1;
-
-        while (left <= mid && right <= high) {
-            if (nums[left] <= nums[right]) {
-                temp.push_back(nums[left]);
-                left++;
-            } else {
-                temp.push_back(nums[right]);
-                right++;
-            }
+    void merge(vector<int>& nums, int low, int mid, int high){
+       vector<int> arr;
+       int left = low;
+       int right = mid+1;
+       while(left<=mid && right<=high){
+        if(nums[left]<=nums[right]){
+            arr.push_back(nums[left++]);
+        }else{
+            arr.push_back(nums[right++]);
         }
-
-        while (left <= mid) {
-            temp.push_back(nums[left]);
-            left++;
+       }
+       if(left<=mid){
+        while(left<=mid){
+            arr.push_back(nums[left++]);
         }
-
-        while (right <= high) {
-            temp.push_back(nums[right]);
-            right++;
+       }else{
+        while(right<=high){
+            arr.push_back(nums[right++]);
         }
-
-        for (int i = low; i <= high; i++) {
-            nums[i] = temp[i - low];
-        }
+       }
+       for (int i = low; i <= high; i++) {
+        nums[i] = arr[i - low];
+       }
     }
-
-    void mergesort(vector<int>& nums, int low, int high) {
-        if (low >= high)
+    void mergesort(vector<int>& nums, int low, int high){
+        if(low>=high){
             return;
-
-        int mid = low + (high - low) / 2;
-
+        }
+        int mid = low + (high-low)/2;
         mergesort(nums, low, mid);
-        mergesort(nums, mid + 1, high);
-
+        mergesort(nums, mid+1, high);
         merge(nums, low, mid, high);
     }
-
     vector<int> sortArray(vector<int>& nums) {
-        mergesort(nums, 0, nums.size() - 1);
+        mergesort(nums, 0, nums.size()-1);
         return nums;
     }
 };
