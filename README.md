@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 ## Array
@@ -18,6 +19,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -133,6 +135,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 ## Simulation
