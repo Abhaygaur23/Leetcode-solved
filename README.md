@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0042-trapping-rain-water) |
@@ -75,6 +77,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1552-magnetic-force-between-two-balls) |
