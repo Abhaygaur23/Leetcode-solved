@@ -26,6 +26,7 @@
 | [0410-split-array-largest-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -133,8 +134,10 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
