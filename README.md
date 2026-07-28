@@ -64,6 +64,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,4 +162,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
