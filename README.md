@@ -25,6 +25,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0704-binary-search) |
@@ -69,6 +70,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0704-binary-search) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -141,6 +144,7 @@
 | [0048-rotate-image](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
