@@ -5,9 +5,7 @@ public:
         string ans;
         for(int i = 0; i<n; i++){
             if(address[i]=='.'){
-                ans.push_back('[');
-                ans.push_back('.');
-                ans.push_back(']');
+                ans = ans +"[.]";
             }else{
                 ans.push_back(address[i]);
             }
