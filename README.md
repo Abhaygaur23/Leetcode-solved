@@ -25,6 +25,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0410-split-array-largest-sum) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
 ## Linked List
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
@@ -98,6 +101,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -119,6 +123,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
