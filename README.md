@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0415-add-strings) |
 ## Array
 |  |
 | ------- |
@@ -166,12 +167,14 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1832-check-if-the-sentence-is-pangram) |
