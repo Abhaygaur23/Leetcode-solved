@@ -100,6 +100,7 @@
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1552-magnetic-force-between-two-balls) |
+| [1859-sorting-the-sentence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1859-sorting-the-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [0796-rotate-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1859-sorting-the-sentence) |
 ## String Matching
 |  |
 | ------- |
