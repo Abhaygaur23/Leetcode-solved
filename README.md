@@ -101,6 +101,7 @@
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1552-magnetic-force-between-two-balls) |
 | [1859-sorting-the-sentence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2785-sort-vowels-in-a-string) |
 ## String Matching
 |  |
 | ------- |
