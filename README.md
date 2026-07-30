@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0069-sqrtx) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
@@ -174,6 +176,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0409-longest-palindrome) |
