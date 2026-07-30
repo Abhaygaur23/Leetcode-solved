@@ -70,6 +70,7 @@
 | [0015-3sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
@@ -180,6 +181,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0415-add-strings) |
@@ -191,6 +193,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
