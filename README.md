@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0415-add-strings) |
 ## Array
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
 ## Sorting
