@@ -35,6 +35,7 @@
 | [0066-plus-one](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -100,6 +101,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
@@ -138,6 +140,7 @@
 | [0015-3sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
