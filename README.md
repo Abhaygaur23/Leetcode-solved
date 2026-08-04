@@ -48,6 +48,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0485-max-consecutive-ones) |
@@ -118,6 +119,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0704-binary-search) |
@@ -156,6 +158,7 @@
 | [0053-maximum-subarray](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +167,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -276,4 +280,20 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
