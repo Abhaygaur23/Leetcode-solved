@@ -60,6 +60,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0409-longest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0231-power-of-two](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0410-split-array-largest-sum) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Stack
 |  |
 | ------- |
