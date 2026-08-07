@@ -70,6 +70,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1901-find-a-peak-element-ii) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2643-row-with-maximum-ones](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
@@ -142,6 +143,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
