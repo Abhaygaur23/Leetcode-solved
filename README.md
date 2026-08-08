@@ -293,6 +293,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -321,4 +322,16 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0493-reverse-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
