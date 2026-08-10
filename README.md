@@ -57,6 +57,7 @@
 | [0485-max-consecutive-ones](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -212,6 +213,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -331,6 +334,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
 ## Graph Theory
