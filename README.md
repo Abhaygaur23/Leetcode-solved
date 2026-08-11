@@ -67,6 +67,7 @@
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1539-kth-missing-positive-number) |
@@ -245,6 +246,7 @@
 | [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2643-row-with-maximum-ones) |
@@ -302,6 +304,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -335,6 +338,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -342,6 +346,7 @@
 | [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
