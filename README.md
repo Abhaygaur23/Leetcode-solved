@@ -340,6 +340,7 @@
 | [0130-surrounded-regions](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -348,6 +349,7 @@
 | [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -355,6 +357,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -363,4 +366,16 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
