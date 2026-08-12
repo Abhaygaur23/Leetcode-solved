@@ -338,6 +338,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
@@ -347,6 +348,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
@@ -357,6 +359,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
@@ -372,6 +375,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
@@ -382,4 +386,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
