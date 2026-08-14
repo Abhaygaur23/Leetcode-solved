@@ -187,6 +187,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -347,6 +348,7 @@
 | [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
@@ -359,6 +361,7 @@
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
@@ -369,6 +372,7 @@
 | [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
@@ -405,4 +409,12 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0126-word-ladder-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
