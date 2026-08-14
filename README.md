@@ -86,6 +86,7 @@
 | [0012-integer-to-roman](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0229-majority-element-ii) |
@@ -269,6 +270,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0067-add-binary) |
+| [0126-word-ladder-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0126-word-ladder-ii) |
 | [0214-shortest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0409-longest-palindrome) |
@@ -351,6 +353,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
@@ -394,4 +397,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0126-word-ladder-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
