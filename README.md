@@ -73,6 +73,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1901-find-a-peak-element-ii) |
@@ -149,6 +150,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
@@ -189,6 +191,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2643-row-with-maximum-ones) |
@@ -313,6 +317,7 @@
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -353,6 +358,7 @@
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -368,6 +374,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -419,6 +426,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
