@@ -190,6 +190,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
@@ -223,6 +224,7 @@
 | [0152-maximum-product-subarray](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -356,6 +358,7 @@
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
@@ -371,6 +374,7 @@
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
@@ -383,6 +387,7 @@
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
@@ -422,6 +427,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
