@@ -102,6 +102,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0283-move-zeroes) |
