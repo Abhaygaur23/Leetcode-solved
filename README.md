@@ -90,6 +90,7 @@
 | [0126-word-ladder-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
@@ -280,6 +281,7 @@
 | [0058-length-of-last-word](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0126-word-ladder-ii) |
+| [0205-isomorphic-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0409-longest-palindrome) |
