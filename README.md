@@ -358,6 +358,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
@@ -373,6 +374,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
@@ -446,10 +448,12 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
