@@ -125,6 +125,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -284,6 +285,7 @@
 | [0205-isomorphic-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0686-repeated-string-match) |
