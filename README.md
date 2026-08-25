@@ -73,6 +73,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1552-magnetic-force-between-two-balls) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -325,6 +326,7 @@
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -400,6 +402,7 @@
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -458,4 +461,20 @@
 | [0110-balanced-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0112-path-sum) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
