@@ -62,6 +62,7 @@
 | [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0721-accounts-merge) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0875-koko-eating-bananas) |
@@ -97,6 +98,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0721-accounts-merge) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Linked List
@@ -178,6 +180,7 @@
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1552-magnetic-force-between-two-balls) |
 | [1859-sorting-the-sentence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1859-sorting-the-sentence) |
@@ -290,6 +293,7 @@
 | [0409-longest-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0686-repeated-string-match) |
+| [0721-accounts-merge](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -324,6 +328,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -368,6 +373,7 @@
 | [0207-course-schedule](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -387,6 +393,7 @@
 | [0210-course-schedule-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
