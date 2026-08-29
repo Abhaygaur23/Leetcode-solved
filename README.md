@@ -63,6 +63,7 @@
 | [0645-set-mismatch](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0827-making-a-large-island) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0875-koko-eating-bananas) |
@@ -261,6 +262,7 @@
 | [0130-surrounded-regions](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0542-01-matrix) |
+| [0827-making-a-large-island](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0827-making-a-large-island) |
 | [0867-transpose-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
@@ -330,6 +332,7 @@
 | [0547-number-of-provinces](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1584-min-cost-to-connect-all-points) |
@@ -378,6 +381,7 @@
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1631-path-with-minimum-effort) |
@@ -398,6 +402,7 @@
 | [0785-is-graph-bipartite](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1319-number-of-operations-to-make-network-connected) |
