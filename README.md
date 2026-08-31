@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0415-add-strings) |
@@ -93,6 +94,7 @@
 | [0126-word-ladder-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0268-missing-number) |
@@ -128,6 +130,7 @@
 | [0088-merge-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0345-reverse-vowels-of-a-string) |
@@ -495,4 +498,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/1584-min-cost-to-connect-all-points) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
