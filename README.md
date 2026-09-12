@@ -39,6 +39,7 @@
 | [0066-plus-one](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0118-pascals-triangle) |
@@ -128,6 +129,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0125-valid-palindrome) |
@@ -181,6 +183,7 @@
 | [0015-3sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0229-majority-element-ii) |
@@ -354,6 +357,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0075-sort-colors) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -511,4 +515,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0181-employees-earning-more-than-their-managers) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Abhaygaur23/Leetcode-solved/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
